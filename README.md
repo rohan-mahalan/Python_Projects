@@ -5,4 +5,5 @@ The Project has four files:
   3. snake.py - Has code for the body of the snake and it's movement.
   4. score.py - Has code for maintaining the score of the player.
 
+Snake's movement can be controlled by the arrow keys.
 Comments have been placed in the files for better understanding and readability.
